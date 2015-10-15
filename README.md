@@ -1,3 +1,1 @@
 # SEP
-
-echo "try";
